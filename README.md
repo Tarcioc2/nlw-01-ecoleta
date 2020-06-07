@@ -2,7 +2,7 @@
 
 ## About
 
-<strong>Ecoleta</strong> is a Web and Mobile application designed to help people find collection points for recycling in their city or region. It was developed for the NLW#1 event promoted by [🚀 RocketSeat](https://https://rocketseat.com.br/) 
+<strong>Ecoleta</strong> is a Web and Mobile application designed to help people find collection points for recycling in their city or region. It was developed for the NLW#1 event promoted by [🚀 RocketSeat](https://rocketseat.com.br/) 
 
 
 
